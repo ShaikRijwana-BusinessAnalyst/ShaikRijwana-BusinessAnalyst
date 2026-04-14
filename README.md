@@ -1,4 +1,4 @@
-# Hi, I'm Shaik Rijwana 👋
+# Hi, I'm Shaik Rijwana 
 ### Aspiring Business Analyst | Economics & Data Intelligence | Bangalore, India
 
 📍 Bangalore, India | 📧 shaikrijwana54@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/shaik-rijwana-6a8861290)
