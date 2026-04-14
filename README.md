@@ -91,7 +91,6 @@ Data-driven content strategy | Engagement analytics
 | 🇮🇳🇯🇵 India–Japan Trade & Technology Partnerships: Viksit Bharat @ 2047 | Published |
 | 🏥 Public Health Expenditure & SDGs in India | ICSSR National Seminar, April 2025 |
 | 🤖 AI & Comparative Advantage in Global Trade | Published |
-
 | 💰 Safeguarding Real Household Savings in India: Fixed Deposit Returns, Inflation Dynamics & Wealth Erosion Risk | Working Paper |
 ---
 
@@ -99,10 +98,9 @@ Data-driven content strategy | Engagement analytics
 
 | Certificate | Issuer |
 |---|---|
-| Data Analyst – Power BI | Microsoft |
+| Advanced Data Analyst  | Coursera |
 | Virtual Experience Program | JP Morgan |
 | Scrum Master & Kanban Framework | Infosys |
-| Advanced Data Analyst | [Issuer] |
 | Macroeconomics | IIM Bangalore (SWAYAM) |
 | AI Literacy | IBM SkillsBuild |
 | Data Fundamentals | IBM SkillsBuild |
