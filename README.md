@@ -7,6 +7,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-rijwana-6a8861290)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaikRijwana-BusinessAnalyst)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikrijwana54@gmail.com)
+<div align="center">
+  <a href="https://resume-for-ba.tiiny.site">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-white?style=for-the-badge&logo=googledrive&logoColor=black" alt="Resume">
+  </a>
+</div>
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShaikRijwana-BusinessAnalyst&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
 
