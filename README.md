@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Shaik%20Rijwana&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Researcher&descAlignY=55&descSize=18&descColor=a8b2d8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Shaik%20Rijwana&fontSize=50&fontColor=ffffff0&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Researcher&descAlignY=55&descSize=18&descColor=a8b2d8"/>
 
 <br/>
 
@@ -26,7 +26,7 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 - 🔬 **Research Assistant** — Indian Statistical Institute, Bangalore *(under Prof. Raju Maiti)*
 - 💼 **Business Development & Analytics** — Tata Motors, Bangalore *(Feb 2026 – Present)*
 - 📌 Currently modeling **macroeconomic risk** in household savings across India
-- 🤝 Open to: **Business Analyst opportunities, BI projects, and academic research collaborations**
+- 🤝 Open to: **Business Analyst opportunities, Business Intelligence Projects, and  research collaborations**
 
 ---
 
@@ -154,10 +154,10 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 
 | # | Research Title | Status | Forum |
 |---|---|---|---|
-| 01 | **Safeguarding Real Household Savings in India: FD Returns, Inflation Dynamics & Wealth Erosion Risk** | 🔄 Ongoing | ISI Bangalore — Prof. Raju Maiti |
-| 02 | **Public Health Expenditure & SDGs in India** | ✅ Published | ICSSR National Seminar, April 2025 |
-| 03 | **AI & the Redefinition of Comparative Advantage in Global Trade** | ✅ Completed | Academic Research |
-| 04 | **India–Japan Trade & Technology Partnerships: Viksit Bharat @ 2047** | ✅ Completed | Policy & Trade Research |
+| 01 | **Safeguarding Real Household Savings in India: FD Returns, Inflation Dynamics & Wealth Erosion Risk** | 🔄 Ongoing | Indian Statistical Institute Bangalore — Prof. Raju Maiti |
+| 02 | **Public Health Expenditure & SDGs in India** | ✅ Published | Indian Council of Social Science Research (ICSSR) National Seminar |
+| 03 | **AI & the Redefinition of Comparative Advantage in Global Trade** | ✅ Published | Presidency University National Conference |
+| 04 | **India–Japan Trade & Technology Partnerships: Viksit Bharat @ 2047** | ✅ Published | Indian Council of Social Science Research (ICSSR) National Seminar |
 
 ---
 
