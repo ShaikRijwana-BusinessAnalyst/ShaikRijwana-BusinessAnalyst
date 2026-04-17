@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Shaik%20Rijwana&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Data%20Storyteller%20%7C%20Economics%20Researcher&descAlignY=55&descSize=18&descColor=a8b2d8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Shaik%20Rijwana&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Data%20Storyteller%20%7C%20Economics%20Researcher&descAlignY=55&descSize=18&descColor=a8b2d8"/>
 
 <br/>
 
@@ -15,9 +15,9 @@
 ---
 
 ## 💡 Who Am I?
-
-> ### 🔍 The Philosophy
-> **"A Business Analyst who doesn't just read data — I interrogate it, challenge it, and make it confess strategy."**
+| |
+| :--- |
+| **"A Business Analyst who doesn't just read data — I interrogate it, challenge it, and make it confess strategy."** |
 
 I bridge the gap between **raw data and boardroom decisions**. My work lives at the intersection of **econometrics, business intelligence, and strategic analysis** — translating complex datasets into narratives that drive measurable outcomes.
 
