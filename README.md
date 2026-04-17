@@ -1,19 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Shaik%20Rijwana&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Researcher&descAlignY=55&descSize=18&descColor=a8b2d8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Shaik%20Rijwana&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Researcher&descAlignY=55&descSize=18&descColor=a8b2d8"/>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-rijwana-6a8861290)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaikRijwana-BusinessAnalyst)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikrijwana54@gmail.com)
-<div align="center">
-  <a href="https://resume-for-ba.tiiny.site">
-    <img src="https://img.shields.io/badge/📄_Download_Resume-white?style=for-the-badge&logo=googledrive&logoColor=black" alt="Resume">
-  </a>
-</div>
-
----
+[![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-blueviolet?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1fwEX3iD3kiJMFUIzPKybQTiv5ufPCgx8/view?usp=drivesdk)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShaikRijwana-BusinessAnalyst&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -22,9 +16,9 @@
 ---
 
 ## 💡 Who Am I?
-| |
-| :--- |
-| **"A Business Analyst who doesn't just read data — I interrogate it, challenge it, and make it confess strategy."** |
+A Business Analyst who doesn’t just read data — I interrogate it, challenge it, and turn it into strategy.
+resumeworded
++1
 
 I bridge the gap between **raw data and boardroom decisions**. My work lives at the intersection of **econometrics, business intelligence, and strategic analysis** — translating complex datasets into narratives that drive measurable outcomes.
 
@@ -32,11 +26,11 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 - 🔬 **Research Assistant** — Indian Statistical Institute, Bangalore *(under Prof. Raju Maiti)*
 - 💼 **Business Development & Analytics** — Tata Motors, Bangalore *(Feb 2026 – Present)*
 - 📌 Currently modeling **macroeconomic risk** in household savings across India
-- 🤝 Open to: **BA consulting, BI projects, academic research collaborations**
+- 🤝 Open to: **Business Analyst opportunities, BI projects, and academic research collaborations**
 
 ---
 
-## 🧩 The BA Toolkit
+## 🧩 The Business Analyst Toolkit
 
 > *A Business Analyst is only as strong as their toolkit — here's mine.*
 
@@ -68,7 +62,7 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 
 ---
 
-## 🏗️ Business Analysis in Action — Project Portfolio
+## 🏗️ Business Analyst in Action — Project Portfolio
 
 > *Each project here represents a real business problem, a structured analytical approach, and a decision-ready output.*
 
@@ -176,32 +170,44 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 | Certification | Issuer | Focus Area |
 |---|---|---|
 | 🥇 Advanced Data Analyst | Coursera | Python, SQL, Statistical Analysis, Reporting |
-| 🥇 Data Analysis & Visualisation – Power BI | Microsoft / Coursera | Advanced DAX, Data Modelling, BI Service |
+| 🥇 Data Analysis & Visualisation – Power BI | Microsoft / Coursera | Advanced DAX, Data Modelling, Business Intelligence Service |
 | 🥇 Quantitative Research Job Simulation | J.P. Morgan (Forage) | Financial Modelling, Quantitative Reasoning |
 | 🥇 Strategic Management Professional (SMP) | Saylor University | Competitive Analysis, SWOT/PESTLE, Strategy |
 | 🥇 Certified Scrum Master | Industry Standard | Sprint Planning, Backlog Management |
 | 🥇 Kanban in Practice | Infosys Springboard | Agile Delivery, WIP Limits |
 | 🥇 AI Fundamentals + AI Literacy | IBM SkillBuild | ML Concepts, Responsible AI, Prompt Design |
-| 🥇 Data Fundamentals | IBM SkillBuild | Data Pipelines, Governance, Relational DBs |
+| 🥇 Data Fundamentals | IBM SkillBuild | Data Pipelines, Governance, Relational Databases |
 | 🥇 Explore Emerging Tech | IBM SkillBuild | Blockchain, IoT, Cloud, Digital Transformation |
 | 🥇 Preparing Data for Analysis – Excel | Microsoft | Data Cleaning, Pivot Tables, VLOOKUP |
 | 🥇 TCS iON Career Edge | TCS iON | Business Communication, Workplace Professionalism |
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
-**🔵 Tata Motors** — *Customer Advisor, Sales & Business Development* | Feb 2026 – Present | Bangalore
-> Leveraging end-to-end customer lifecycle data to surface actionable insights, drive lead conversion efficiency, and enable revenue-aligned business development strategies in a high-stakes automotive environment.
+**🔵 Tata Motors** — *Customer Advisor, Sales & Business Development* | Feb 2026 – Present | Bangalore, India
+- Drive end-to-end customer lifecycle operations while leveraging service and transaction data to surface actionable insights — enabling targeted business development strategies that measurably improved lead conversion efficiency across the sales pipeline.
+- Collaborate cross-functionally with product, operations, and marketing stakeholders to translate customer intelligence into revenue-aligned decisions, consistently exceeding satisfaction benchmarks in a high-stakes automotive environment.
 
 **🟠 Indian Statistical Institute, Bangalore** — *Research Assistant, Economics & Data Analysis* | 2026
-> Co-authoring peer-level econometric research on household financial security using R, EViews, and STATA on national macroeconomic datasets under Prof. Raju Maiti.
+- Co-authoring *"Safeguarding Real Household Savings in India: FD Returns, Inflation Dynamics & Wealth Erosion Risk"* under Prof. Raju Maiti. Deploying R, EViews, and STATA to execute advanced econometric modeling on national datasets, generating evidence-based findings to steer high-level discourse on household financial security and macroeconomic policy.
+- Synthesizing complex econometric datasets into compelling scholarly research narratives for academic and policymaker audiences.
 
-**🟢 Alhbytes Pvt. Ltd.** — *Data Analyst* | 2024–2025
-> Designed and deployed Power BI dashboards translating platform usage and market data into executive-ready insights that directly informed product roadmap and sustainability decisions.
+**🟢 Alhbytes Pvt. Ltd.** — *Data Analyst & Business Development* | 2024–2025
+- Designed and deployed interactive Power BI dashboards translating raw platform usage and market data into executive-ready insights that directly informed product roadmap decisions and sustainability initiatives.
+- Partnered with product and leadership teams to define KPIs, build reporting pipelines, and deliver multi-dimensional analysis that sharpened strategic positioning and internal decision-making.
 
-**🟡 Media Production / Mutual Fund Bank** — *Social Media & Content Strategy Intern* | 2023
-> Built data-driven content strategies for finance and investment platforms, translating engagement metrics into audience-centric financial narratives.
+**🔷 Plentra Technologies Pvt. Ltd.** — *Data Analyst & Research Intern* | June 2025 – August 2025
+- Conducted in-depth data analysis and research on a university and student-based application, generating actionable insights to enhance user experience.
+- Delivered impactful ideas and strategic recommendations that contributed to the app's growth and development direction.
+
+**🟡 Forever Living Products (India)** — *Assistant Supervisor* | November 2023 – January 2025
+- Recruited and mentored new team members, driving Aloe Vera product sales through targeted marketing strategies and consistent monthly performance.
+- Managed customer relationships by identifying needs and delivering tailored solutions, demonstrating strong self-management and leadership skills.
+
+**🟣 The House of Edits** — *Social Media Manager Intern* | June 2024 – August 2024
+- Strategized and curated engaging social media content, analyzing performance metrics to optimize campaigns and improve reach.
+- Contributed to enhancing the company's brand image by developing innovative and creative marketing campaigns.
 
 ---
 
@@ -223,10 +229,11 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 
 ### 📬 Let's Build Something Meaningful
 
-*I'm always open to research collaborations, BI consulting, and business analysis opportunities.*
+*Open to Business Analyst opportunities, research collaborations, and business intelligence consulting.*
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-rijwana-6a8861290)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikrijwana54@gmail.com)
+[![Resume](https://img.shields.io/badge/View_Resume-blueviolet?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1fwEX3iD3kiJMFUIzPKybQTiv5ufPCgx8/view?usp=drivesdk)
 
 <br/>
 
