@@ -1,15 +1,13 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:8B0000&height=200&section=header&text=Shaik%20Rijwana&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Researcher%20%7C%20Product%20Manager&descAlignY=55&descSize=20&descColor=ff4d4d"/>
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cc0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-rijwana-6a8861290)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaikRijwana-BusinessAnalyst)
-[![Email](https://img.shields.io/badge/Gmail-cc0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikrijwana54@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/ShaikRijwana-BusinessAnalyst)
+[![Email](https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikrijwana54@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-cc0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1F-iFV7HSBwtRUFE-9Wxcsxjd2zzm0pFB/view?usp=drivesdk)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShaikRijwana-BusinessAnalyst&color=cc0000&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ShaikRijwana-BusinessAnalyst&color=cc0000&style=for-the-badge&label=PROFILE+VIEWS&base=0&abbreviated=true)
 
 </div>
 
@@ -40,25 +38,24 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 
 **📊 Business Intelligence & Visualisation**
 
-![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=cc0000)
-![Tableau](https://img.shields.io/badge/Tableau-cc0000?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced_Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=cc0000)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **🧮 Quantitative & Statistical**
 
-![Python](https://img.shields.io/badge/Python-cc0000?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=cc0000)
-![R](https://img.shields.io/badge/R-cc0000?style=for-the-badge&logo=r&logoColor=white)
-![STATA](https://img.shields.io/badge/STATA-000000?style=for-the-badge&logoColor=white)
-![EViews](https://img.shields.io/badge/EViews-cc0000?style=for-the-badge&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-000000?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![STATA](https://img.shields.io/badge/STATA-1A5276?style=for-the-badge&logoColor=white)
+![EViews](https://img.shields.io/badge/EViews-003087?style=for-the-badge&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 **⚙️ Delivery Methodologies**
 
-![Scrum](https://img.shields.io/badge/Scrum_Master-cc0000?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-000000?style=for-the-badge&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-cc0000?style=for-the-badge&logoColor=white)
-
+![Scrum](https://img.shields.io/badge/Scrum_Master-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge&logo=agile&logoColor=white)
 ---
 
 ## 🏗️ Business Analyst in Action — Project Portfolio
@@ -155,7 +152,7 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 |---|---|---|---|
 | 01 | **Safeguarding Real Household Savings in India: FD Returns, Inflation Dynamics & Wealth Erosion Risk** | 🔄 Ongoing | Indian Statistical Institute Bangalore — Prof. Raju Maiti |
 | 02 | **Public Health Expenditure & SDGs in India** | ✅ Published | Indian Council of Social Science Research (ICSSR) National Seminar |
-| 03 | **AI & the Redefinition of Comparative Advantage in Global Trade** | ✅ Published | Presidency University International Conference |
+| 03 | **AI & the Redefinition of Comparative Advantage in Global Trade** | ✅ Published | International Conference organized by Presidency University |
 | 04 | **India–Japan Trade & Technology Partnerships: Viksit Bharat @ 2047** | ✅ Published | Indian Council of Social Science Research (ICSSR) National Seminar |
 
 ---
