@@ -1,24 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Shaik%20Rijwana&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Researcher%20%7C%20Economic%20Strategy%20Analyst&descAlignY=55&descSize=18&descColor=a8b2d8" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:333333&height=200&section=header&text=Shaik%20Rijwana&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Researcher%20%7C%20Product%20Manager&descAlignY=55&descSize=18&descColor=cccccc"/>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-rijwana-6a8861290)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaikRijwana-BusinessAnalyst)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikrijwana54@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-blueviolet?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1F-iFV7HSBwtRUFE-9Wxcsxjd2zzm0pFB/view?usp=drivesdk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-rijwana-6a8861290)
+[![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ShaikRijwana-BusinessAnalyst)
+[![Email](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikrijwana54@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-ffffff?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1fwEX3iD3kiJMFUIzPKybQTiv5ufPCgx8/view?usp=drivesdk)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShaikRijwana-BusinessAnalyst&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ShaikRijwana-BusinessAnalyst&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
 ## 💡 Who Am I?
-A Business Analyst who doesn’t just read data — I interrogate it, challenge it, and turn it into strategy.
 
+A Business Analyst who doesn't just read data — I interrogate it, challenge it, and turn it into strategy.
 
 I bridge the gap between **raw data and boardroom decisions**. My work lives at the intersection of **econometrics, business intelligence, and strategic analysis** — translating complex datasets into narratives that drive measurable outcomes.
 
@@ -26,7 +25,7 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 - 🔬 **Research Assistant** — Indian Statistical Institute, Bangalore *(under Prof. Raju Maiti)*
 - 💼 **Business Development & Analytics** — Tata Motors, Bangalore *(Feb 2026 – Present)*
 - 📌 Currently modeling **macroeconomic risk** in household savings across India
-- 🤝 Open to: **Business Analyst opportunities, Business Intelligence Projects, and  research collaborations**
+- 🤝 Open to: **Business Analyst opportunities, Business Intelligence Projects, and research collaborations**
 
 ---
 
@@ -41,24 +40,24 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 
 **📊 Business Intelligence & Visualisation**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-ffffff?style=for-the-badge&logo=tableau&logoColor=black)
+![Excel](https://img.shields.io/badge/Advanced_Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 **🧮 Quantitative & Statistical**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![STATA](https://img.shields.io/badge/STATA-1A1A6C?style=for-the-badge&logoColor=white)
-![EViews](https://img.shields.io/badge/EViews-005B96?style=for-the-badge&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-CC0000?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-ffffff?style=for-the-badge&logo=r&logoColor=black)
+![STATA](https://img.shields.io/badge/STATA-000000?style=for-the-badge&logoColor=white)
+![EViews](https://img.shields.io/badge/EViews-ffffff?style=for-the-badge&logoColor=black)
+![SPSS](https://img.shields.io/badge/SPSS-000000?style=for-the-badge&logoColor=white)
 
 **⚙️ Delivery Methodologies**
 
-![Scrum](https://img.shields.io/badge/Scrum_Master-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-FF6F00?style=for-the-badge&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum_Master-ffffff?style=for-the-badge&logo=scrumalliance&logoColor=black)
+![Kanban](https://img.shields.io/badge/Kanban-000000?style=for-the-badge&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-ffffff?style=for-the-badge&logoColor=black)
 
 ---
 
@@ -77,7 +76,7 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 - Engineered advanced DAX measures to model EV-vs-ICE revenue cannibalization scenarios
 - Delivered an actionable **portfolio optimization roadmap** and EV transition strategy for executive stakeholders
 
-[![View Project](https://img.shields.io/badge/📂_View_Full_Analysis-0f3460?style=for-the-badge)](https://github.com/ShaikRijwana-BusinessAnalyst/BMW-Strategic-Performance-Market-Intelligence-dashboard)
+[![View Project](https://img.shields.io/badge/📂_View_Full_Analysis-000000?style=for-the-badge&logoColor=white)](https://github.com/ShaikRijwana-BusinessAnalyst/BMW-Strategic-Performance-Market-Intelligence-dashboard)
 
 ---
 
@@ -90,7 +89,7 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 - Isolated pricing inefficiencies, volume dilution, and product-mix drag at a granular SKU level
 - Produced surgical **margin recovery strategies** with quantified revenue engineering levers
 
-[![View Project](https://img.shields.io/badge/📂_View_Full_Analysis-0f3460?style=for-the-badge)](https://github.com/ShaikRijwana-BusinessAnalyst/Revenue-Growth-Management-PVM-Strategy-Dashboard)
+[![View Project](https://img.shields.io/badge/📂_View_Full_Analysis-ffffff?style=for-the-badge&logoColor=black)](https://github.com/ShaikRijwana-BusinessAnalyst/Revenue-Growth-Management-PVM-Strategy-Dashboard)
 
 ---
 
@@ -103,7 +102,7 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 - Modeled a **12% cost reduction** through DAX-driven infrastructure expansion and dynamic route optimization
 - Delivered an operations dashboard enabling real-time logistics decision-making at scale
 
-[![View Project](https://img.shields.io/badge/📂_View_Full_Analysis-0f3460?style=for-the-badge)](https://github.com/ShaikRijwana-BusinessAnalyst/Amazon-Last-Mile-Logistics-Efficiency-dashboard)
+[![View Project](https://img.shields.io/badge/📂_View_Full_Analysis-000000?style=for-the-badge&logoColor=white)](https://github.com/ShaikRijwana-BusinessAnalyst/Amazon-Last-Mile-Logistics-Efficiency-dashboard)
 
 ---
 
@@ -116,7 +115,7 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 - Identified a **15% revenue growth opportunity** through SUV-segment premiumization and EV policy tailwinds
 - Translated macro trends into **go-to-market strategy recommendations** for OEM and investor audiences
 
-[![View Project](https://img.shields.io/badge/📂_View_Full_Analysis-0f3460?style=for-the-badge)](https://github.com/ShaikRijwana-BusinessAnalyst/Automobile-Market-Intelligence-dashboard)
+[![View Project](https://img.shields.io/badge/📂_View_Full_Analysis-ffffff?style=for-the-badge&logoColor=black)](https://github.com/ShaikRijwana-BusinessAnalyst/Automobile-Market-Intelligence-dashboard)
 
 ---
 
@@ -129,7 +128,7 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 - Identified **372 high-risk churn profiles** and quantified **$100K in revenue at a 0.87% profit margin**
 - Built a segmentation roadmap enabling targeted retention, upsell, and reactivation strategies
 
-[![View Project](https://img.shields.io/badge/📂_View_Full_Analysis-0f3460?style=for-the-badge)](https://github.com/ShaikRijwana-BusinessAnalyst/FMCG-Customer-Intelligence-Segmentation-Dashboard)
+[![View Project](https://img.shields.io/badge/📂_View_Full_Analysis-000000?style=for-the-badge&logoColor=white)](https://github.com/ShaikRijwana-BusinessAnalyst/FMCG-Customer-Intelligence-Segmentation-Dashboard)
 
 ---
 
@@ -142,7 +141,7 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 - Engineered complex DAX models including **Weighted Sentiment Score** and **Viral Velocity Index**
 - Identified **price-sentiment decoupling signals** to enable proactive portfolio risk mitigation
 
-[![View Project](https://img.shields.io/badge/📂_View_Full_Analysis-0f3460?style=for-the-badge)](https://github.com/ShaikRijwana-BusinessAnalyst/Social-Signal-Equity-Intelligence-Engine-X-dashboard)
+[![View Project](https://img.shields.io/badge/📂_View_Full_Analysis-ffffff?style=for-the-badge&logoColor=black)](https://github.com/ShaikRijwana-BusinessAnalyst/Social-Signal-Equity-Intelligence-Engine-X-dashboard)
 
 ---
 
@@ -150,7 +149,7 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 
 > *Applying econometric rigour to real-world policy challenges.*
 
-[![Research Repository](https://img.shields.io/badge/📁_All_Research_Papers-View_Full_Repository-2ea44f?style=for-the-badge)](https://github.com/ShaikRijwana-BusinessAnalyst/Research-Papers)
+[![Research Repository](https://img.shields.io/badge/📁_All_Research_Papers-View_Full_Repository-000000?style=for-the-badge&logoColor=white)](https://github.com/ShaikRijwana-BusinessAnalyst/Research-Papers)
 
 | # | Research Title | Status | Forum |
 |---|---|---|---|
@@ -165,7 +164,7 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 
 > *Validated expertise across analytics, strategy, and emerging technology.*
 
-[![Certifications Repository](https://img.shields.io/badge/📁_All_Certifications-View_Full_Repository-0077B5?style=for-the-badge)](https://github.com/ShaikRijwana-BusinessAnalyst/Certification)
+[![Certifications Repository](https://img.shields.io/badge/📁_All_Certifications-View_Full_Repository-ffffff?style=for-the-badge&logoColor=black)](https://github.com/ShaikRijwana-BusinessAnalyst/Certification)
 
 | Certification | Issuer | Focus Area |
 |---|---|---|
@@ -185,27 +184,37 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 
 ## 💼 Work Experience
 
-**🔵 Tata Motors** — *Customer Advisor, Sales & Business Development* | Feb 2026 – Present | Bangalore, India
+**Tata Motors** — *Customer Advisor, Sales & Business Development* | Feb 2026 – Present | Bangalore, India
 - Drive end-to-end customer lifecycle operations while leveraging service and transaction data to surface actionable insights — enabling targeted business development strategies that measurably improved lead conversion efficiency across the sales pipeline.
 - Collaborate cross-functionally with product, operations, and marketing stakeholders to translate customer intelligence into revenue-aligned decisions, consistently exceeding satisfaction benchmarks in a high-stakes automotive environment.
 
-**🟠 Indian Statistical Institute, Bangalore** — *Research Assistant, Economics & Data Analysis* | 2026
+---
+
+**Indian Statistical Institute, Bangalore** — *Research Assistant, Economics & Data Analysis* | 2026
 - Co-authoring *"Safeguarding Real Household Savings in India: FD Returns, Inflation Dynamics & Wealth Erosion Risk"* under Prof. Raju Maiti. Deploying R, EViews, and STATA to execute advanced econometric modeling on national datasets, generating evidence-based findings to steer high-level discourse on household financial security and macroeconomic policy.
 - Synthesizing complex econometric datasets into compelling scholarly research narratives for academic and policymaker audiences.
 
-**🟢 Alhbytes Pvt. Ltd.** — *Data Analyst & Business Development* | 2024–2025
+---
+
+**Alhbytes Pvt. Ltd.** — *Data Analyst & Business Development* | 2024–2025
 - Designed and deployed interactive Power BI dashboards translating raw platform usage and market data into executive-ready insights that directly informed product roadmap decisions and sustainability initiatives.
 - Partnered with product and leadership teams to define KPIs, build reporting pipelines, and deliver multi-dimensional analysis that sharpened strategic positioning and internal decision-making.
 
-**🔷 Plentra Technologies Pvt. Ltd.** — *Data Analyst & Research Intern* | June 2025 – August 2025
+---
+
+**Plentra Technologies Pvt. Ltd.** — *Data Analyst & Research Intern* | June 2025 – August 2025
 - Conducted in-depth data analysis and research on a university and student-based application, generating actionable insights to enhance user experience.
 - Delivered impactful ideas and strategic recommendations that contributed to the app's growth and development direction.
 
-**🟡 Forever Living Products (India)** — *Assistant Supervisor* | November 2023 – January 2025
+---
+
+**Forever Living Products (India)** — *Assistant Supervisor* | November 2023 – January 2025
 - Recruited and mentored new team members, driving Aloe Vera product sales through targeted marketing strategies and consistent monthly performance.
 - Managed customer relationships by identifying needs and delivering tailored solutions, demonstrating strong self-management and leadership skills.
 
-**🟣 The House of Edits** — *Social Media Manager Intern* | June 2024 – August 2024
+---
+
+**The House of Edits** — *Social Media Manager Intern* | June 2024 – August 2024
 - Strategized and curated engaging social media content, analyzing performance metrics to optimize campaigns and improve reach.
 - Contributed to enhancing the company's brand image by developing innovative and creative marketing campaigns.
 
@@ -215,11 +224,11 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 
 <div align="center">
 
-![Rijwana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaikRijwana-BusinessAnalyst&show_icons=true&theme=tokyonight&hide_border=true&title_color=e94560&icon_color=e94560)
+![Rijwana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaikRijwana-BusinessAnalyst&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikRijwana-BusinessAnalyst&layout=compact&theme=tokyonight&hide_border=true&title_color=e94560)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikRijwana-BusinessAnalyst&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShaikRijwana-BusinessAnalyst&theme=tokyonight&hide_border=true&ring=e94560&fire=e94560&currStreakLabel=e94560)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShaikRijwana-BusinessAnalyst&theme=default&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000)
 
 </div>
 
@@ -231,14 +240,14 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 
 *Open to Business Analyst opportunities, research collaborations, and business intelligence consulting.*
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-rijwana-6a8861290)
-[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikrijwana54@gmail.com)
-[![Resume](https://img.shields.io/badge/View_Resume-blueviolet?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1F-iFV7HSBwtRUFE-9Wxcsxjd2zzm0pFB/view?usp=drivesdk)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-rijwana-6a8861290)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-ffffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:shaikrijwana54@gmail.com)
+[![Resume](https://img.shields.io/badge/View_Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1fwEX3iD3kiJMFUIzPKybQTiv5ufPCgx8/view?usp=drivesdk)
 
 <br/>
 
 *⭐ Star the repos if the work adds value. Every project here solved a real problem — explore them.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,50:1a1a1a,100:000000&height=100&section=footer"/>
 
 </div>
