@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:8B0000&height=200&section=header&text=Shaik%20Rijwana&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Researcher%20%7C%20Product%20Manager&descAlignY=55&descSize=20&descColor=ff4d4d"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:000000,100:8B0000&height=200&section=header&text=Shaik%20Rijwana&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Researcher%20%7C%20Product%20Manager&descAlignY=55&descSize=20&descColor=ff4d4d"/>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cc0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-rijwana-6a8861290)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/ShaikRijwana-BusinessAnalyst)
-[![Email](https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikrijwana54@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-cc0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1F-iFV7HSBwtRUFE-9Wxcsxjd2zzm0pFB/view?usp=drivesdk)
+[![Email](https://img.shields.io/badge/Gmail-cc0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikrijwana54@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-000000View%20%2F%20Download-cc0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1F-iFV7HSBwtRUFE-9Wxcsxjd2zzm0pFB/view?usp=drivesdk)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShaikRijwana-BusinessAnalyst&color=cc0000&style=for-the-badge&label=PROFILE+VIEWS&base=0&abbreviated=true)
 
