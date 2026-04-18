@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Shaik%20Rijwana&fontSize=50&fontColor=ffffff0&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Researcher&descAlignY=55&descSize=18&descColor=a8b2d8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Shaik%20Rijwana&fontSize=50&fontColor=0000000&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Researcher%20%7C%20Economic%20%26%20Strategy%20Analyst&descAlignY=55&descSize=18&descColor=a8b2d8"/>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-rijwana-6a8861290)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaikRijwana-BusinessAnalyst)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikrijwana54@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-blueviolet?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1fwEX3iD3kiJMFUIzPKybQTiv5ufPCgx8/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-blueviolet?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1F-iFV7HSBwtRUFE-9Wxcsxjd2zzm0pFB/view?usp=drivesdk)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShaikRijwana-BusinessAnalyst&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -17,8 +17,7 @@
 
 ## 💡 Who Am I?
 A Business Analyst who doesn’t just read data — I interrogate it, challenge it, and turn it into strategy.
-resumeworded
-+1
+
 
 I bridge the gap between **raw data and boardroom decisions**. My work lives at the intersection of **econometrics, business intelligence, and strategic analysis** — translating complex datasets into narratives that drive measurable outcomes.
 
@@ -156,7 +155,7 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 |---|---|---|---|
 | 01 | **Safeguarding Real Household Savings in India: FD Returns, Inflation Dynamics & Wealth Erosion Risk** | 🔄 Ongoing | Indian Statistical Institute Bangalore — Prof. Raju Maiti |
 | 02 | **Public Health Expenditure & SDGs in India** | ✅ Published | Indian Council of Social Science Research (ICSSR) National Seminar |
-| 03 | **AI & the Redefinition of Comparative Advantage in Global Trade** | ✅ Published | Presidency University National Conference |
+| 03 | **AI & the Redefinition of Comparative Advantage in Global Trade** | ✅ Published | Presidency University International Conference |
 | 04 | **India–Japan Trade & Technology Partnerships: Viksit Bharat @ 2047** | ✅ Published | Indian Council of Social Science Research (ICSSR) National Seminar |
 
 ---
@@ -233,7 +232,7 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-rijwana-6a8861290)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikrijwana54@gmail.com)
-[![Resume](https://img.shields.io/badge/View_Resume-blueviolet?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1fwEX3iD3kiJMFUIzPKybQTiv5ufPCgx8/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/View_Resume-blueviolet?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1F-iFV7HSBwtRUFE-9Wxcsxjd2zzm0pFB/view?usp=drivesdk)
 
 <br/>
 
