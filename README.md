@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cc0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-rijwana-6a8861290)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/ShaikRijwana-BusinessAnalyst)
 [![Email](https://img.shields.io/badge/Gmail-cc0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikrijwana54@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-cc0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1F-iFV7HSBwtRUFE-9Wxcsxjd2zzm0pFB/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Resume-View%20%2F%20Download-cc0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1CT-94gnpVU9j2IgyvqhTRo9Yso-n5wkA/view?usp=drivesdk)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShaikRijwana-BusinessAnalyst&color=cc0000&style=for-the-badge&label=PROFILE+VIEWS&base=0&abbreviated=true)
 
@@ -229,7 +229,7 @@ I bridge the gap between **raw data and boardroom decisions**. My work lives at 
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-cc0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaik-rijwana-6a8861290)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikrijwana54@gmail.com)
-[![Resume](https://img.shields.io/badge/View_Resume-cc0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1F-iFV7HSBwtRUFE-9Wxcsxjd2zzm0pFB/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/View_Resume-cc0000?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1CT-94gnpVU9j2IgyvqhTRo9Yso-n5wkA/view?usp=drivesdk)
 
 <br/>
 
